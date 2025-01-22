@@ -9,4 +9,4 @@ This repository was made to share some configs of my arch wsl2.
 - zsh
 
 ## 🔧 Shell Tools
-- [starship](https://starship.rs/) (terminal customization tool)
+- [starship](https://starship.rs/) (prompt customization tool)
